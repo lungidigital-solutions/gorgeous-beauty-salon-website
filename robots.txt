@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lungidigital-solutions.github.io/gorgeous-beauty-salon-website/sitemap.xml
